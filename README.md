@@ -1,6 +1,6 @@
-# [My Resume](https://cv.techmill.io/)
+# [My Resume](http://cv.techmill.io/)
 
-[My Resume](https://cv.techmill.io/) is a resume theme using [Bootstrap](http://getbootstrap.com/)
+[My Resume](http://cv.techmill.io/) is a resume theme using [Bootstrap](http://getbootstrap.com/)
 This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
 
