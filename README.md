@@ -9,7 +9,9 @@ This theme features a fixed sidebar with content sections to build a simple, yet
 
 ## Preview
 
-[![Resume Preview](https://s3-eu-west-1.amazonaws.com/cv.techmill.io/img/screenshot_ipad.png)](https://s3-eu-west-1.amazonaws.com/cv.techmill.io/img/screenshot_ipad.png)
+[![Resume Preview](https://s3-eu-west-1.amazonaws.com/cv.techmill.io/img/screenshot_iPad.png)](https://s3-eu-west-1.amazonaws.com/cv.techmill.io/img/screenshot_iPad.png)
+
+
 
 **[View Live Preview](http://cv.techmill.io/)**
 
