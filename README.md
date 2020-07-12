@@ -1,13 +1,17 @@
+<<<<<<< HEAD
 # [My Resume](https://cv.techmill.io/)
+=======
+# [ Static CV](https://cv.techmill.io/)
+>>>>>>> e1145ddb04b83dfb781452a614bfac42bf9087dc
 
 [My Resume](https://cv.techmill.io/) is a resume theme using [Bootstrap](http://getbootstrap.com/)
 This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://s3-eu-west-1.amazonaws.com/cv.techmill.io/img/screenshot_ipad.png)
+[![Resume Preview](https://s3-eu-west-1.amazonaws.com/cv.techmill.io/img/screenshot_ipad.png)](https://s3-eu-west-1.amazonaws.com/cv.techmill.io/img/screenshot_ipad.png)
 
-**[View Live Preview](https://cv.techmill.io/)**
+**[View Live Preview](http://cv.techmill.io/)**
 
 
 
