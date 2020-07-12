@@ -34,8 +34,9 @@ Alternatively you can use [Live Server](https://github.com/tapio/live-server)
 
 ### Basic Deployment
 
-Please visit this [blog post](http://blog.techmill.io/simple-static-website-your-cv/) for details on how to deploy as a static site on AWS using Codepipeline for and S3 for storage
-AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software
+Please visit this [blog post](http://blog.techmill.io/simple-static-website-your-cv/) for details on how to deploy as a static site on AWS using S3 and Codepipeline.
+AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software.
+Amazon Simple Storage Service (Amazon S3) is an object storage service.
 
 ## Bugs and Issues
 
