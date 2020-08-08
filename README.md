@@ -26,7 +26,7 @@ This theme features a fixed sidebar with content sections to build a simple, yet
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. 
+After downloading, simply edit the HTML and CSS files included with the template in your favourite text editor to make changes. 
 These are the only files you need to worry about.  To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 Alternatively you can use [Live Server](https://github.com/tapio/live-server) 
